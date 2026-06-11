@@ -1,0 +1,73 @@
+name,brand,shop,geometry
+Indomaret,Indomaret,convenience,POINT (98.6997604 3.5683816)
+Indomaret,Indomaret,convenience,POINT (98.7113512 3.5910073)
+Indomaret,Indomaret,convenience,POINT (98.7117958 3.594186)
+Alfamart,Alfamart,convenience,POINT (98.711759 3.5940167)
+Alfamart,Alfamart,convenience,POINT (98.6809108 3.6188583)
+Alfamidi,,convenience,POINT (98.6801928 3.6093236)
+Indomaret,Indomaret,convenience,POINT (98.680972 3.5994284)
+Indomaret,Indomaret,convenience,POINT (98.6807612 3.6141463)
+Indomaret,Indomaret,convenience,POINT (98.6806584 3.6208375)
+Alfamart,Alfamart,convenience,POINT (98.668454 3.5895159)
+Indomaret,Indomaret,convenience,POINT (98.6857262 3.5802614)
+Indomaret,Indomaret,convenience,POINT (98.6707262 3.5870717)
+Indomaret,Indomaret,convenience,POINT (98.6786093 3.5878006)
+Alfamart,Alfamart,convenience,POINT (98.6560472 3.56758)
+Indomaret,Indomaret,convenience,POINT (98.7069896 3.6150555)
+Alfamart,Alfamart,convenience,POINT (98.7222839 3.5972152)
+Indomaret,Indomaret,convenience,POINT (98.7203093 3.5973601)
+Indomaret,Indomaret,convenience,POINT (98.7059325 3.589701)
+Indomaret,Indomaret,convenience,POINT (98.669927 3.6229853)
+Indomaret,Indomaret,convenience,POINT (98.7065436 3.6041927)
+Indomaret,Indomaret,convenience,POINT (98.7073195 3.6217075)
+Indomaret,Indomaret,convenience,POINT (98.6741379 3.6428738)
+Indomaret,Indomaret,convenience,POINT (98.6707932 3.6198952)
+Indomaret,Indomaret,convenience,POINT (98.7381769 3.5323138)
+Indomaret,Indomaret,convenience,POINT (98.7020009 3.5390962)
+Alfamart,Alfamart,convenience,POINT (98.6988225 3.5440619)
+Alfamart,Alfamart,convenience,POINT (98.6943796 3.5590452)
+Alfamart,Alfamart,convenience,POINT (98.7234979 3.5334611)
+Indomaret,Indomaret,convenience,POINT (98.6953285 3.5559403)
+Indomaret,Indomaret,convenience,POINT (98.6688394 3.6255337)
+Indomaret,Indomaret,convenience,POINT (98.673978 3.6051743)
+Alfamart,Alfamart,convenience,POINT (98.6703555 3.6220845)
+Alfamart,Alfamart,convenience,POINT (98.6939403 3.6911785)
+Indomaret,Indomaret,convenience,POINT (98.6633181 3.64206)
+Alfamart,Alfamart,convenience,POINT (98.6762994 3.6151829)
+Indomaret,Indomaret,convenience,POINT (98.6768206 3.6139239)
+Alfamidi,Alfamidi,convenience,POINT (98.6740918 3.6155456)
+Alfamart,Alfamart,convenience,POINT (98.6605951 3.7110453)
+Indomaret,Indomaret,convenience,POINT (98.6817807 3.7635889)
+Indomaret Jamin Ginting 8,,convenience,POINT (98.6563874 3.5428952)
+Indomaret Fresh,,supermarket,POINT (98.6272661 3.5987665)
+Alfamidi,,supermarket,POINT (98.6273121 3.5991551)
+Alfamart,Alfamart,convenience,POINT (98.6948269 3.5560888)
+Indomaret,Indomaret,convenience,POINT (98.7035661 3.5384136)
+Indomaret Fresh,,convenience,POINT (98.7106481 3.5371331)
+Indomaret,Indomaret,convenience,POINT (98.6984451 3.5422244)
+Indomaret,Indomaret,convenience,POINT (98.7035493 3.538299)
+Indomaret,Indomaret,convenience,POINT (98.7110681 3.5375768)
+Indomaret,Indomaret,convenience,POINT (98.6689612 3.5815899)
+Indomaret,Indomaret,convenience,POINT (98.6534037 3.5891355)
+Indomaret,Indomaret,convenience,POINT (98.6527468 3.5772946)
+Indomaret,Indomaret,convenience,POINT (98.6530209 3.5797443)
+Indomaret,Indomaret,convenience,POINT (98.6264012 3.5814545)
+Alfamart,Alfamart,convenience,POINT (98.7182785 3.5333755)
+Indomaret Marelan Pasar V,Indomaret,convenience,POINT (98.6607178 3.7101952)
+Indomaret SPBU Marelan,Indomaret,convenience,POINT (98.658629 3.7013922)
+Alfamart,Alfamart,convenience,POINT (98.664125 3.7176919)
+Alfamart,Alfamart,convenience,"POLYGON ((98.7030106 3.5697537, 98.7030082 3.5695879, 98.7028474 3.5695902, 98.7028498 3.569756, 98.7030106 3.5697537))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6333789 3.555599, 98.6333813 3.5555499, 98.6333604 3.5555489, 98.6333634 3.5554873, 98.6333818 3.5554882, 98.6333836 3.5554503, 98.6334916 3.5554556, 98.6334843 3.5556041, 98.6333789 3.555599))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.7194162 3.5954726, 98.7194245 3.5955802, 98.7192719 3.5955919, 98.7192636 3.5954844, 98.7194162 3.5954726))"
+Alfamidi,Alfamidi,convenience,"POLYGON ((98.6776557 3.6423356, 98.6779036 3.6423274, 98.6779096 3.6425073, 98.6779164 3.6425958, 98.6776623 3.6426119, 98.6776617 3.6425155, 98.6776557 3.6423356))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6880948 3.6938464, 98.6881943 3.6937774, 98.6881464 3.6937086, 98.6880468 3.6937776, 98.6880948 3.6938464))"
+Alfamart,Alfamart,convenience,"POLYGON ((98.6874349 3.6948394, 98.6875107 3.6947858, 98.6874195 3.6946574, 98.6873437 3.6947111, 98.6874349 3.6948394))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6793331 3.6930246, 98.6794321 3.6931955, 98.6795051 3.6931463, 98.6795344 3.6931282, 98.6795563 3.6931117, 98.6794535 3.6929454, 98.6793331 3.6930246))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6927687 3.6889, 98.6928172 3.6890114, 98.6928922 3.6889788, 98.6928436 3.6888675, 98.6927687 3.6889))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6909292 3.6861966, 98.6909687 3.6862649, 98.6910653 3.6862093, 98.6910258 3.6861409, 98.6909292 3.6861966))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6757486 3.6154824, 98.6757127 3.6156385, 98.6758612 3.6156725, 98.675897 3.6155164, 98.6757486 3.6154824))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6815938 3.5901609, 98.681412 3.5900752, 98.6813737 3.5901563, 98.6815554 3.5902419, 98.6815938 3.5901609))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6714117 3.5835597, 98.6714415 3.5835574, 98.6714324 3.5834359, 98.6714026 3.5834381, 98.6714117 3.5835597))"
+Indomaret Yos Sudarso Simpang Kantor,Indomaret,convenience,"POLYGON ((98.6798202 3.7220098, 98.6798115 3.7220474, 98.6798027 3.722085, 98.6799548 3.7221198, 98.6799633 3.7220822, 98.6799718 3.7220446, 98.6799804 3.722007, 98.679829 3.7219722, 98.6798202 3.7220098))"
+Indomaret,Indomaret,convenience,"POLYGON ((98.6882014 3.6811383, 98.6883482 3.6810895, 98.6883138 3.6809863, 98.6881669 3.6810351, 98.6882014 3.6811383))"
+Indomaret Marelan Raya Pasar V,Indomaret,convenience,"POLYGON ((98.6592846 3.7068144, 98.6594331 3.706812, 98.6594309 3.7066759, 98.6592823 3.7066784, 98.6592846 3.7068144))"
