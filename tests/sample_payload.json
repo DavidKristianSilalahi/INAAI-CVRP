@@ -1,0 +1,11 @@
+{
+  "distance_matrix": [
+    [0, 500, 800],
+    [500, 0, 600],
+    [800, 600, 0]
+  ],
+  "demands": [0, 5, 8],
+  "num_vehicles": 2,
+  "vehicle_capacity": 15,
+  "depot_index": 0
+}
